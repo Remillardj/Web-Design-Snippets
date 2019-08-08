@@ -1,0 +1,25 @@
+body {
+    background-color: white;
+}
+#mainNav {
+    background-color: transparent;
+    height: 60px;
+}
+
+.mainNav-scrolled {
+    -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    background-color: #cccccc !important;
+    opacity: 1;
+}
+
+.masthead {
+    padding-top: 60px;
+    min-height: 500px;
+}
+
+.about {
+    background-color: #8a8a8a;
+    min-height: 1000px;
+    color: white;
+}
